@@ -207,4 +207,44 @@ ul li {
         padding: 8px 15px;
         font-size: 1rem;
     }
+
+    .service-header {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+    nav a {
+        padding: 10px;
+        font-size: 0.9rem;
+        width: 100%;
+        text-align: center;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    .service-header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .service-logo {
+        width: 40px;
+        height: 40px;
+    }
 }
