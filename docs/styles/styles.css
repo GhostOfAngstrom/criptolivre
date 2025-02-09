@@ -212,6 +212,20 @@ ul li {
         flex-direction: column;
         gap: 10px;
     }
+
+    .intro-text {
+        font-size: 0.9em;
+        line-height: 1.4em;
+        max-width: 90%;
+    }
+
+    #categories-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        max-width: 100%;
+    }
 }
 
 @media (max-width: 480px) {
@@ -246,5 +260,19 @@ ul li {
     .service-logo {
         width: 40px;
         height: 40px;
+    }
+
+    .intro-text {
+        font-size: 0.8em;
+        line-height: 1.4em;
+        max-width: 90%;
+    }
+
+    #categories-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px;
+        max-width: 100%;
     }
 }
