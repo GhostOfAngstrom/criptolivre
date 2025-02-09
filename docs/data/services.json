@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Bisq",
+    "description": "Plataforma descentralizada para compra e venda de Bitcoin sem KYC.",
+    "detailedDescription": "Bisq é uma exchange peer-to-peer que permite a compra e venda de Bitcoin sem a necessidade de fornecer dados pessoais.",
+    "categories": ["Exchange"],
+    "links": {
+      "web": "https://robosats.com",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/bisq.jpg"
+  },
+  {
+    "name": "robosats",
+    "description": "Plataforma descentralizada para compra e venda de Bitcoin sem KYC.",
+    "detailedDescription": "Troca P2P de bitcoin por moedas nacionais. Robosats simplifica a experiência do usuário peer-to-peer.",
+    "categories": ["Exchange"],
+    "links": {
+      "web": null,
+      "tor": "http://robodexarjwtfryec556cjdz3dfa7u47saek6lkftnkgshvgg2kcumqd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/robosats.jpg"
+  },
+  {
+    "name": "unstoppable swap",
+    "description": "Atomic Swaps entre Bitcoin e Monero",
+    "detailedDescription": "Atomic Swaps de Bitcoin para Monero, de forma segura e descentralizada, usando um protocolo criptográfico de última geração e software de desktop de código aberto.",
+    "categories": ["Swap"],
+    "links": {
+      "web": "https://unstoppableswap.net/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/unstoppable-swap.jpg"
+  },
+  {
+    "name": "basicswap beta",
+    "description": "Cross-chain trading exchange (DEX)",
+    "detailedDescription": "Cross-chain trading exchange (DEX), P2P de criptomoedas como Bitcoin e Monero. Ela usa a rede Particl, atomic swaps e scripts sem script para transações sem envolvimento de terceiros.",
+    "categories": ["Swap", "Trading"],
+    "links": {
+      "web": "https://basicswapdex.com/",
+      "tor": "http://basicswapof6d23whqtxpdpkkr7uoafivwl22m37pypnw2deisxkdaid.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/basicswap-beta.jpg"
+  },
+  {
+    "name": "sporestack",
+    "description": "API-driven VPS",
+    "detailedDescription": "Hospedagem VPS orientada por API com Monero, Bitcoin e Bitcoin Cash.",
+    "categories": ["VPS"],
+    "links": {
+      "web": "https://sporestack.com/",
+      "tor": "http://spore64i5sofqlfz5gq2ju4msgzojjwifls7rok2cti624zyq3fcelad.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/sporestack.jpg"
+  },
+  {
+    "name": "eXch",
+    "description": "Swaps automatizados",
+    "detailedDescription": "Trocas automatizadas de criptomoedas com privacidade em primeiro lugar, sem registro.",
+    "categories": ["Swap"],
+    "links": {
+      "web": "https://exch.cx/?ref=0c3f9d9D",
+      "tor": "http://hszyoqwrcp7cxlxnqmovp6vjvmnwj33g4wviuxqzq47emieaxjaperyd.onion/?ref=0c3f9d9D"
+    },
+    "logo": "https://kycnot.me/static/images/exch.jpg"
+  }
+]

@@ -1,0 +1,210 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    background: linear-gradient(145deg, #222, #333);
+    color: #ff6600;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+header, h2, .service, .service-detail, .about-box {
+    background: linear-gradient(145deg, #141414, #222222);
+    border: 2px solid #ff6600;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(22, 22, 22, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
+}
+
+header {
+    color: #ff6600;
+    padding: 30px 50px;
+    text-align: center;
+    width: 100%;
+    border-radius: 12px;
+    border: 3px solid #ff6600;
+}
+
+h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+nav a, .service a, .service-detail a, .pagination-btn, .category-btn {
+    color: #ff6600;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #333;
+    border: 2px solid #ff6600;
+    border-radius: 10px;
+    transition: background-color 0.3s, color 0.3s;
+    display: inline-block;
+}
+
+nav a:hover, .service-detail a:hover, .pagination-btn:hover, .category-btn:hover {
+    background-color: #ff6600;
+    color: #333;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    padding: 40px 0;
+}
+
+h2, .service-detail h2 {
+    font-size: 2.5rem;
+    margin: 0 0 20px 0;
+    text-align: center;
+    padding: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.service-container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+}
+
+.service {
+    position: relative;
+    padding: 20px;
+    margin: 15px 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s;
+}
+
+.service:hover {
+    transform: translateY(-5px);
+}
+
+.service-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+h3 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.3rem;
+    margin: 5px 0;
+}
+
+.service-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.service-logo {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #ff6600;
+}
+
+#pagination {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.pagination-btn {
+    cursor: pointer;
+}
+
+.pagination-btn.active {
+    background-color: #cc5200;
+    color: #fff;
+}
+
+#categories-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+.intro-text {
+    font-size: 1.2em;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.title-box {
+    text-align: center;
+}
+
+.about-section {
+    display: grid;
+    gap: 20px;
+}
+
+.about-box {
+    display: grid;
+    gap: 20px;
+    padding: 15px;
+}
+
+ul {
+    list-style: none;
+    padding: 15px;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+.kyc-link {
+    color: #ff6600;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    .service {
+        width: 100%;
+        padding: 15px;
+    }
+
+    nav a {
+        padding: 8px 15px;
+        font-size: 1rem;
+    }
+}
