@@ -235,10 +235,19 @@ ul li {
         text-align: center;
     }
 
-    .about-box {
-        display: block;
-        padding: 10px;
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
         width: 100%;
+    }
+
+    .about-box {
+        width: 100%;
+        padding: 15px;
+        display: block;
+        text-align: center;
+        border-radius: 10px;
     }
 }
 
@@ -300,9 +309,19 @@ ul li {
         white-space: nowrap;
     }
 
-    .about-box {
-        display: block;
-        padding: 10px;
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
         width: 100%;
+    }
+
+    .about-box {
+        width: 100%;
+        padding: 10px;
+        display: block;
+        text-align: center;
+        border-radius: 8px;
+        font-size: 0.9em;
     }
 }
