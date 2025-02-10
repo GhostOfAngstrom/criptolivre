@@ -225,6 +225,20 @@ ul li {
         justify-content: center;
         gap: 10px;
         max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    .category-btn {
+        padding: 8px 12px;
+        font-size: 0.9rem;
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .about-box {
+        display: block;
+        padding: 10px;
+        width: 100%;
     }
 }
 
@@ -274,5 +288,21 @@ ul li {
         justify-content: center;
         gap: 8px;
         max-width: 100%;
+        overflow-x: hidden;
+        padding: 0 5px;
+    }
+
+    .category-btn {
+        padding: 8px 10px;
+        font-size: 0.8rem;
+        max-width: 100%;
+        text-align: center;
+        white-space: nowrap;
+    }
+
+    .about-box {
+        display: block;
+        padding: 10px;
+        width: 100%;
     }
 }
