@@ -47,7 +47,7 @@
     "name": "sporestack",
     "description": "API-driven VPS",
     "detailedDescription": "Hospedagem VPS orientada por API com Monero, Bitcoin e Bitcoin Cash.",
-    "categories": ["VPS"],
+    "categories": ["VPS", "Hospedagem"],
     "links": {
       "web": "https://sporestack.com/",
       "tor": "http://spore64i5sofqlfz5gq2ju4msgzojjwifls7rok2cti624zyq3fcelad.onion/"
@@ -64,5 +64,324 @@
       "tor": "http://hszyoqwrcp7cxlxnqmovp6vjvmnwj33g4wviuxqzq47emieaxjaperyd.onion/?ref=0c3f9d9D"
     },
     "logo": "https://kycnot.me/static/images/exch.jpg"
+  },
+  {
+    "name": "NiceVPS",
+    "description": "Hospedagem anônima",
+    "detailedDescription": "Provedor de hospedagem anônima (vps e domínios), permite pagamentos Monero",
+    "categories": ["VPS", "Hospedagem"],
+    "links": {
+      "web": "https://nicevps.net/",
+      "tor": "https://nicevpsvzo5o6mtvvdiurhkemnv7335f74tjk42rseoj7zdnqy44mnqd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/nicevps.jpg"
+  },
+  {
+    "name": "Mullvad VPN",
+    "description": "VPN anônimo",
+    "detailedDescription": "Mullvad é um serviço de VPN completamente anônimo que pode ser pago com Bitcoin, Bitcoin Cash e Monero",
+    "categories": ["VPN"],
+    "links": {
+      "web": "https://mullvad.net",
+      "tor": "http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/"
+    },
+    "logo": "https://mullvad.net/_app/immutable/assets/logo.Ba5MUFAA.svg"
+  },
+  {
+    "name": "Relay Tools",
+    "description": "Relay Nostr privado",
+    "detailedDescription": "Relay Tools é um serviço que permite a compra de relays do Nostr de forma anônima usando Bitcoin",
+    "categories": ["Nostr relays"],
+    "links": {
+      "web": "https://relay.tools/",
+      "tor": null
+    },
+    "logo": "https://relay.tools/17.svg"
+  },
+  {
+    "name": "Majestic Bank",
+    "description": "Exchange anônima de Monero",
+    "detailedDescription": "Exchange anônima: troque Bitcoin por Monero e vice-versa.",
+    "categories": ["Exchange"],
+    "links": {
+      "web": "https://majesticbank.ru/?ref=ZIFOYl",
+      "tor": "http://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/?ref=ZIFOYl"
+    },
+    "logo": "https://kycnot.me/static/images/majestic-bank.jpg"
+  },
+  {
+    "name": "Azire",
+    "description": "VPN anônima",
+    "detailedDescription": "VPN com banda larga ilimitada, servidores dedicados sem discos rígidos, oferece serviço VPN sem registro aceitando Monero.",
+    "categories": ["VPN"],
+    "links": {
+      "web": "https://www.azirevpn.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/azire.jpg"
+  },
+  {
+    "name": "vexl",
+    "description": "App de trading P2P",
+    "detailedDescription": "App open source de negociação P2P. Sem intermediários ou KYC. Os usuários se conectam por meio de contatos telefônicos e amigos de amigos, trazendo confiança do mundo real para encorajar o bom comportamento. O Vexl não tem acesso às atividades ou identidades dos usuários, o que o torna uma maneira segura e privada de negociar ponto a ponto.",
+    "categories": ["P2P", "Trading"],
+    "links": {
+      "web": "http://vexl.it/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/vexl.jpg"
+  },
+  {
+    "name": "OrangeWebsite",
+    "description": "Provedor de hospedagem",
+    "detailedDescription": "Provedor de hospedagem web de liberdade de expressão com sede na Islândia, oferecendo soluções de hospedagem web seguras e de alta qualidade para seus clientes no mundo todo, com uma equipe de suporte ao cliente premiada.",
+    "categories": ["Hospedagem"],
+    "links": {
+      "web": "https://orangewebsite.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/orangewebsite.jpg"
+  },
+  {
+    "name": "airvpn",
+    "description": "VPN baseada em OpenVPN e WireGuard",
+    "detailedDescription": "Uma VPN baseada em OpenVPN e WireGuard operada por ativistas em defesa da neutralidade da rede, privacidade e contra a censura.",
+    "categories": ["VPN"],
+    "links": {
+      "web": "https://airvpn.org/",
+      "tor": "https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/airvpn.jpg"
+  },
+  {
+    "name": "SMSPool",
+    "description": "Números de telefone de uso único ou alugados",
+    "detailedDescription": "O SMSPool protege sua identidade com números de telefone de uso único ou de aluguel.",
+    "categories": ["SMS"],
+    "links": {
+      "web": "https://smspool.net/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/smspool.jpg"
+  },
+  {
+    "name": "sms4sats",
+    "description": "Números de verificação por SMS online",
+    "detailedDescription": "Números de verificação por SMS online, pague usando a Lightning Network. Barato, fácil, rápido e anônimo.",
+    "categories": ["SMS"],
+    "links": {
+      "web": "https://sms4sats.com/",
+      "tor": "http://sms4sat6y7lkq4vscloomatwyj33cfeddukkvujo2hkdqtmyi465spid.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/sms4sats.jpg"
+  },
+  {
+    "name": "Boltz",
+    "description": "Swaps de Bitcoin da Lightning para Onchain ou outras redes",
+    "detailedDescription": "Boltz é uma ponte Bitcoin não custodial construída para trocar entre diferentes camadas de Bitcoin como a Liquid e a Lightning Network. Os Boltz Swaps não são custodiais, o que significa que os usuários podem sempre ter certeza de estar em controle total de seus bitcoins durante todo o fluxo de uma troca.",
+    "categories": ["Swap"],
+    "links": {
+      "web": "https://boltz.exchange/",
+      "tor": "http://boltzzzbnus4m7mta3cxmflnps4fp7dueu2tgurstbvrbt6xswzcocyd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/boltz.jpg"
+  },
+  {
+    "name": "servers guru",
+    "description": "Hospedagem com preço competitivo",
+    "detailedDescription": "Hospedagem com privacidade e preços competitivos. 99,9% de tempo de atividade garantido, proteção DDOS e suporte premium.",
+    "categories": ["Hospedagem"],
+    "links": {
+      "web": "https://servers.guru/",
+      "tor": "http://srvguru7bjzzjba7xy2hnx2ju4k77qy4eum2h3tgudwc3j2zof4aggyd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/servers-guru.jpg"
+  },
+  {
+    "name": "peach bitcoin",
+    "description": "App de negociação P2P de Bitcoin (IMPORTANTE: Não aceita BRL)",
+    "detailedDescription": "Peach é um aplicativo mobile que conecta compradores e vendedores de Bitcoin. Compre ou venda bitcoin P2P, em qualquer lugar, a qualquer hora, com o método de pagamento de sua escolha. Não aceita BRL infelizmente",
+    "categories": ["Exchange", "P2P"],
+    "links": {
+      "web": "https://peachbitcoin.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/peach-bitcoin.jpg"
+  },
+  {
+    "name": "peach bitcoin",
+    "description": "App de negociação P2P de Bitcoin (IMPORTANTE: Não aceita BRL)",
+    "detailedDescription": "Peach é um aplicativo mobile que conecta compradores e vendedores de Bitcoin. Compre ou venda bitcoin P2P, em qualquer lugar, a qualquer hora, com o método de pagamento de sua escolha. Não aceita BRL infelizmente",
+    "categories": ["Exchange", "P2P"],
+    "links": {
+      "web": "https://peachbitcoin.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/peach-bitcoin.jpg"
+  },
+  {
+    "name": "IncogNET",
+    "description": "VPN, Hospedagem, KVM VPS, Servidores dedicados entre outros",
+    "detailedDescription": "Hospedagem web privada, KVM VPS, servidores dedicados, nomes de domínio e VPN.",
+    "categories": ["Hospedagem", "VPN", "VPS"],
+    "links": {
+      "web": "https://incognet.io/",
+      "tor": "http://incoghostm2dytlqdiaj3lmtn7x2l5gb76jhabb6ywbqhjfzcoqq6aad.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/incognet.jpg"
+  },
+  {
+    "name": "ProxyStore",
+    "description": "Compre bens digitais usando cripto",
+    "detailedDescription": "Compre diferentes bens digitais com criptomoedas. Obtenha cupons para serviços como Simplelogin, Tutanota, SPN e outros",
+    "categories": ["Outros"],
+    "links": {
+      "web": "https://digitalgoods.proxysto.re/en",
+      "tor": "http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/proxystore.jpg"
+  },
+  {
+    "name": "Silent.Link",
+    "description": "Internet global 4G/5G",
+    "detailedDescription": "Obtenha acesso global à Internet 4G/5G e números de telefone descartáveis ​​de forma instantânea e privada em qualquer smartphone moderno compatível com eSIM.",
+    "categories": ["SMS", "eSIM"],
+    "links": {
+      "web": "https://silent.link/",
+      "tor": "http://silentlnit5ryavvfz5vw7s4qg62jujd666lnc4tg2chj64zuwuqtvqd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/silent-link.jpg"
+  },
+  {
+    "name": "ProtonVPN",
+    "description": "VPN de alta velocidade e privada",
+    "detailedDescription": "VPN de alta velocidade disponível com vários protocolos, com política rigorosa de não registro e sediada na Suíça.",
+    "categories": ["VPN"],
+    "links": {
+      "web": "https://protonvpn.com/",
+      "tor": "https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/protonvpn.jpg"
+  },
+  {
+    "name": "MyNymBox",
+    "description": "Soluções de hospedagem, servidores, registros de domínio e parking dns",
+    "detailedDescription": "Soluções de hospedagem, servidores, registros de domínio e parking dns. Não solicitam nenhuma informação pessoal. Pague com Bitcoin e Monero.",
+    "categories": ["Hospedagem"],
+    "links": {
+      "web": "https://mynymbox.io/",
+      "tor": "http://mynymecyaiv7t55qiggp76rzqz35si5g7nzdh3yci4wiqbmlwqg7xeyd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/mynymbox.jpg"
+  },
+  {
+    "name": "xeovo",
+    "description": "VPN privada",
+    "detailedDescription": "Proteja sua privacidade e ignore restrições com Xeovo VPN e proxies stealth. Empresa de VPN autofinanciada com sede na Finlândia. Em operação desde 2016.",
+    "categories": ["VPN"],
+    "links": {
+      "web": "https://xeovo.com/",
+      "tor": "http://xeovok4d6ehoclmlyviwuq7zlmcvucuekhrt2677r33ny2csyd4yldyd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/xeovo.jpg"
+  },
+  {
+    "name": "monero sms",
+    "description": "SMS pago com Monero",
+    "detailedDescription": "SMS anônimo via web app, CLI open source ou proxy de e-mail. Pague com Monero.",
+    "categories": ["SMS"],
+    "links": {
+      "web": "https://monerosms.com/",
+      "tor": "http://xmr4smsoncunkfgfjr6xmxl57afsmuu6rg2bwuysbgg4wdtoawamwxad.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/monero-sms.jpg"
+  },
+  {
+    "name": "Cockbox",
+    "description": "VPS simples e anônimo",
+    "detailedDescription": "Provedor de VPS pequeno, amigável ao Tor e voltado para privacidade. Os servidores da Cockbox estão em Bucareste, Romênia, e a proteção DDoS de 950 Gb é incluída automaticamente em cada servidor.",
+    "categories": ["VPS"],
+    "links": {
+      "web": "https://cockbox.org/",
+      "tor": "http://dwtqmjzvn2c6z2x462mmbd34ugjjrodowtul4jfbkexjuttzaqzcjyad.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/cockbox.jpg"
+  },
+  {
+    "name": "safing spn",
+    "description": "VPN anônima",
+    "detailedDescription": "O SPN pode fornecer diversas identidades com base no aplicativo que você está usando.",
+    "categories": ["VPN"],
+    "links": {
+      "web": "https://safing.io/spn/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/safing-spn.jpg"
+  },
+  {
+    "name": "infinity",
+    "description": "Exchange Tor-only",
+    "detailedDescription": "Exchange Tor-only, sem contas de usuário, permitindo trocar rapidamente vários ativos.",
+    "categories": ["Exchange"],
+    "links": {
+      "web": "https://exchanger.infinity.taxi/",
+      "tor": "exchanger.mb552q7s75safalxcxnvlnkmsfni26i64dtbxv2on73rknui44jr7tid.onion"
+    },
+    "logo": "https://kycnot.me/static/images/infinity.jpg"
+  },
+  {
+    "name": "IVPN",
+    "description": "VPN completamente anônima",
+    "detailedDescription": "Sem registros, VPN totalmente anônima. Resista à vigilância online.",
+    "categories": ["VPN"],
+    "links": {
+      "web": "https://www.ivpn.net/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/ivpn.jpg"
+  },
+  {
+    "name": "haveno",
+    "description": "Exchange privada P2P",
+    "detailedDescription": "Exchange P2P privada e não custodial para negociação de criptomoedas e fiat sem interrupções. Construído em Tor e Monero para máxima privacidade e segurança.",
+    "categories": ["Exchange"],
+    "links": {
+      "web": "https://haveno.exchange/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/haveno.jpg"
+  },
+  {
+    "name": "JMP",
+    "description": "SMS com client XMPP",
+    "detailedDescription": "Envie e receba mensagens sms por meio de um cliente XMPP. Você também pode fazer e receber chamadas telefônicas.",
+    "categories": ["SMS"],
+    "links": {
+      "web": "https://jmp.chat/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/jmp.jpg"
+  },
+  {
+    "name": "crypton",
+    "description": "Número de telefone por um baixo preço",
+    "detailedDescription": "Pelo preço de um ingresso de cinema por mês, obtenha um número de telefone SIM físico. Todas as suas mensagens são criptografadas com sua chave privada pessoal usando criptografia assimétrica de 256 bits padrão da indústria.",
+    "categories": ["SMS"],
+    "links": {
+      "web": "https://crypton.sh/",
+      "tor": "http://cryptonx6nsmspsnpicuihgmbbz3qvro4na35od3eht4vojdo7glm6yd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/crypton.jpg"
+  },
+  {
+    "name": "simsup",
+    "description": "Fornecimento de cartões SIM anônimos",
+    "detailedDescription": "Fornecimento de cartões SIM anônimos. Tenha seus números de telefone, obtenha cartões SIM em questão de dias em qualquer lugar do globo.",
+    "categories": ["SMS"],
+    "links": {
+      "web": "https://simsup.net/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/simsup.jpg"
   }
 ]
