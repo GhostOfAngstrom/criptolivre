@@ -209,17 +209,6 @@
     "logo": "https://kycnot.me/static/images/peach-bitcoin.jpg"
   },
   {
-    "name": "peach bitcoin",
-    "description": "App de negociação P2P de Bitcoin (IMPORTANTE: Não aceita BRL)",
-    "detailedDescription": "Peach é um aplicativo mobile que conecta compradores e vendedores de Bitcoin. Compre ou venda bitcoin P2P, em qualquer lugar, a qualquer hora, com o método de pagamento de sua escolha. Não aceita BRL infelizmente",
-    "categories": ["Exchange", "P2P"],
-    "links": {
-      "web": "https://peachbitcoin.com/",
-      "tor": null
-    },
-    "logo": "https://kycnot.me/static/images/peach-bitcoin.jpg"
-  },
-  {
     "name": "IncogNET",
     "description": "VPN, Hospedagem, KVM VPS, Servidores dedicados entre outros",
     "detailedDescription": "Hospedagem web privada, KVM VPS, servidores dedicados, nomes de domínio e VPN.",
