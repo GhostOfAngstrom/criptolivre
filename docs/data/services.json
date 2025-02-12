@@ -383,5 +383,159 @@
       "tor": null
     },
     "logo": "data:image/jpeg;base64,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"
+  },
+  {
+    "name": "CoinGate",
+    "description": "Compre giftcards pagando com Bitcoin",
+    "detailedDescription": "CoinGate é uma plataforma que vende giftcards por Bitcoin. Porém, exige um cadastro com email",
+    "categories": ["Outros"],
+    "links": {
+      "web": "https://coingate.com/",
+      "tor": null
+    },
+    "logo": "https://coingate.com/app/themes/coingate/dist/images/coingate/logo-full.svg"
+  },
+  {
+    "name": "MEXC",
+    "description": "Exchange para compra e venda de várias criptos",
+    "detailedDescription": "MEXC é uma exchange que permite a compra de várias criptos. Porém, exige um cadastro com email",
+    "categories": ["Exchange"],
+    "links": {
+      "web": "https://www.mexc.com/pt-PT",
+      "tor": null
+    },
+    "logo": "data:image/jpeg;base64,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"
+  },
+  {
+    "name": "SpikeToSpike",
+    "description": "Compre ou venda Bitcoin e USDT de forma anônima",
+    "detailedDescription": "A SpikeToSpike é uma plataforma brasileira P2P que conecta vendedores e compradores, de forma anônima",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://spiketospike.com/",
+      "tor": null
+    },
+    "logo": "data:image/jpeg;base64,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"
+  },
+  {
+    "name": "Bitrefill",
+    "description": "Compre giftcards pagando com Bitcoin",
+    "detailedDescription": "A Bitrefill é uma plataforma que vende giftcards por Bitcoin e outras criptos, além de vender eSIMs e fazer recargas de celular. Porém, exige um cadastro com email",
+    "categories": ["Outros", "eSIM"],
+    "links": {
+      "web": "https://www.bitrefill.com/br/pt/",
+      "tor": null
+    },
+    "logo": "data:image/png;base64,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"
+  },
+  {
+    "name": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️",
+    "description": "P2P brasileira de Bitcoin, Stablecoins e Monero",
+    "detailedDescription": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️ é uma P2P brasileira, que compra e vende Bitcoin, Stablecoins e Monero, além de realizar Swaps",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FuSAJtO0asnul7BRkzDeFxulsB0FZMKss%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAfIvQbWMc7GcaDbyntex7SNjgjQ4IkNfBnv8klT8Y_3s%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion",
+      "tor": null
+    },
+    "logo": "https://bloss1.poster.place/893b1409b1b49ceb8fcba1f7c0961f5b75962df0b6447eba7e91504ece195f46.gif"
+  },
+  {
+    "name": "Tripinha P2P",
+    "description": "P2P brasileiro de DePix",
+    "detailedDescription": "Tripinha P2P é um P2P brasileiro que faz venda de DePix",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FUi08UeygAB-p6w7JHqpV3-CeRYD0tqb9%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAxLuiWUQxFLEelWxaHIPN05TPy3PhZ1_oRdjKXFBxQxY%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22groupLinkId%22%3A%22WxIdl-i-K5_FUg1jwndOOw%3D%3D%22%7D",
+      "tor": null
+    },
+    "logo": ""
+  },
+  {
+    "name": "cryptostorm",
+    "description": "VPN anônima de criptografia forte",
+    "detailedDescription": "VPN amigável à privacidade com criptografia forte, sem registros, métodos de pagamento anônimos e acesso Tor e I2P. Eles suportam OpenVPN e WireGuard.",
+    "categories": ["VPN"],
+    "links": {
+      "web": "https://cryptostorm.is/",
+      "tor": "http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/cryptostorm.jpg"
+  },
+  {
+    "name": "xmrbazaar",
+    "description": "Marketplace P2P que aceita Monero",
+    "detailedDescription": "Marketplace P2P que aceita Monero. É similar ao MoneroMarket e ao Facebook Marketplace. O Messenger para comprador/vendedor é incluso com criptografia PGP.",
+    "categories": ["Maketplace"],
+    "links": {
+      "web": "https://xmrbazaar.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/xmrbazaar.jpg"
+  },
+  {
+    "name": "payperq",
+    "description": "Use GPT4 (e mais) sem contas",
+    "detailedDescription": "Use GPT4 (e mais) sem contas, assinaturas ou cartões de crédito. A interface roda em um modelo de pagamento por consulta via Lightning.",
+    "categories": ["Outros"],
+    "links": {
+      "web": "https://ppq.ai/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/payperq.jpg"
+  },
+  {
+    "name": "stealths",
+    "description": "Cartões pré-pagos e giftcards",
+    "detailedDescription": "Compre cartões pré-pagos e vales-presente, pague com cripto. Evite expor suas credenciais de cartão online.",
+    "categories": ["Outros"],
+    "links": {
+      "web": "https://stealths.net/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/stealths.jpg"
+  },
+  {
+    "name": "moneromarket",
+    "description": "Marketplace que aceita Monero",
+    "detailedDescription": "Marketplace P2P que aceita Monero. É similar ao XMRBazaar e ao Facebook Marketplace.",
+    "categories": ["Marketplace"],
+    "links": {
+      "web": "https://moneromarket.io/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/moneromarket.jpg"
+  },
+  {
+    "name": "TradeOgre",
+    "description": "Exchange focada especialmente em moedas de privacidade",
+    "detailedDescription": "Exchange focada especialmente em moedas de privacidade. Depósitos e retiradas são feitos sem verificação de identidade. Custodial.",
+    "categories": ["Exchange"],
+    "links": {
+      "web": "https://tradeogre.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/tradeogre.jpg"
+  },
+  {
+    "name": "juicysms",
+    "description": "SMS online anônimo",
+    "detailedDescription": "Verifique suas contas online via SMS com números de telefone reais temporários.",
+    "categories": ["SMS"],
+    "links": {
+      "web": "https://juicysms.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/juicysms.jpg"
+  },
+  {
+    "name": "trocador",
+    "description": "SMS online anônimo",
+    "detailedDescription": "Agregador de Exchanges focado em privacidade. Quando você preenche uma transação, ele busca as melhores taxas possíveis em câmbios parceiros. Isso significa que não há necessidade de você abrir uma conta em nenhum deles. Além disso, há possibilidade de comprar cartões pré-pagos, giftcards e swaps. Email pode ser pedido em algumas ocasiões.",
+    "categories": ["Exchange", "Swap", "Outros"],
+    "links": {
+      "web": "https://trocador.app/?ref=z5XqQPHqR4",
+      "tor": "http://qkiw4pl4qlxui26nsbjnxei323x7ptqcf765a6koxlzcox35udmihsid.onion/en/?ref=z5XqQPHqR4"
+    },
+    "logo": "https://kycnot.me/static/images/trocador.jpg"
   }
 ]
