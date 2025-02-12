@@ -465,7 +465,7 @@
     "name": "xmrbazaar",
     "description": "Marketplace P2P que aceita Monero",
     "detailedDescription": "Marketplace P2P que aceita Monero. É similar ao MoneroMarket e ao Facebook Marketplace. O Messenger para comprador/vendedor é incluso com criptografia PGP.",
-    "categories": ["Maketplace"],
+    "categories": ["Marketplace"],
     "links": {
       "web": "https://xmrbazaar.com/",
       "tor": null
