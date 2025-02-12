@@ -529,7 +529,7 @@
   },
   {
     "name": "trocador",
-    "description": "SMS online anônimo",
+    "description": "Agregador de Exchanges focado em privacidade",
     "detailedDescription": "Agregador de Exchanges focado em privacidade. Quando você preenche uma transação, ele busca as melhores taxas possíveis em câmbios parceiros. Isso significa que não há necessidade de você abrir uma conta em nenhum deles. Além disso, há possibilidade de comprar cartões pré-pagos, giftcards e swaps. Email pode ser pedido em algumas ocasiões.",
     "categories": ["Exchange", "Swap", "Outros"],
     "links": {
