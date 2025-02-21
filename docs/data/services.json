@@ -431,7 +431,7 @@
   {
     "name": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️",
     "description": "P2P brasileira de Bitcoin, Stablecoins e Monero",
-    "detailedDescription": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️ é uma P2P brasileira, que compra e vende Bitcoin, Stablecoins e Monero, além de realizar Swaps",
+    "detailedDescription": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️ é uma P2P brasileira que compra e vende Bitcoin",
     "categories": ["P2P"],
     "links": {
       "web": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FuSAJtO0asnul7BRkzDeFxulsB0FZMKss%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAfIvQbWMc7GcaDbyntex7SNjgjQ4IkNfBnv8klT8Y_3s%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion",
@@ -537,5 +537,60 @@
       "tor": "http://qkiw4pl4qlxui26nsbjnxei323x7ptqcf765a6koxlzcox35udmihsid.onion/en/?ref=z5XqQPHqR4"
     },
     "logo": "https://kycnot.me/static/images/trocador.jpg"
+  },
+  {
+    "name": "LN VPN",
+    "description": "VPN, SMS e eSIM",
+    "detailedDescription": "VPN, SMS e eSIM pagos com Bitcoin, de forma 100% anônima",
+    "categories": ["VPN", "eSIM", "SMS"],
+    "links": {
+      "web": "https://lnvpn.net?ref=GHOST",
+      "tor": null
+    },
+    "logo": "https://m.primal.net/KhMz.jpg"
+  },
+  {
+    "name": "intercambio",
+    "description": "Um agregador que coloca sua privacidade em primeiro lugar",
+    "detailedDescription": "Um agregador que coloca sua privacidade em primeiro lugar. Graças às negociações multi-hop, você pode trocar pares indisponíveis em qualquer outro lugar.",
+    "categories": ["Exchange", "Swap"],
+    "links": {
+      "web": "https://intercambio.app/",
+      "tor": "http://ybnc7t4gnaixrvawshppx6nauxrvyxf4nmppfk74ztqgd46q3ifjl4id.onion/"
+    },
+    "logo": "https://kycnot.me/static/images/intercambio.jpg"
+  },
+  {
+    "name": "sideshift.ai",
+    "description": "Swaps rápidos com uma variedade de criptos",
+    "detailedDescription": "Troque entre criptos com uma experiência de usuário rápida e fácil, sem necessidade de inscrição.",
+    "categories": ["Exchange", "Swap"],
+    "links": {
+      "web": "https://sideshift.ai/a/GHOST",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/sideshift-ai.jpg"
+  },
+  {
+    "name": "Stackfy",
+    "description": "Compre Bitcoin de maneira privada",
+    "detailedDescription": "A Stackfy possui um site e um bot no Telegram onde você pode vender e comprar Bitcoin de maneira privada",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://stackfy.xyz/",
+      "tor": null
+    },
+    "logo": "https://stackfy.xyz/wp-content/uploads/2024/04/midia_kit_logos-1024x566.png"
+  },
+  {
+    "name": "DIG P2P",
+    "description": "P2P brasileiro de Bitcoin e Stablecoins",
+    "detailedDescription": "O DIG é um P2P brasileiro que vende Bitcoin e Stablecoins de maneira privada",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://www.usedig.net/",
+      "tor": null
+    },
+    "logo": "https://www.usedig.net/assets/dig-DkWK3uie.jpg"
   }
 ]
