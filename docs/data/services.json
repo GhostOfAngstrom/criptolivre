@@ -592,5 +592,49 @@
       "tor": null
     },
     "logo": "https://www.usedig.net/assets/dig-DkWK3uie.jpg"
+  },
+  {
+    "name": "hodlhodl",
+    "description": "Plataforma P2P para compra e venda de Bitcoin",
+    "detailedDescription": "Plataforma de negociação P2P de Bitcoin. Comércio global. Usando qualquer sistema de pagamento. Para qualquer moeda.",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://hodlhodl.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/hodlhodl.jpg"
+  },
+  {
+    "name": "Peach Bitcoin",
+    "description": "Plataforma P2P para compra e venda de Bitcoin",
+    "detailedDescription": "Peach é um aplicativo móvel que conecta Compradores e Vendedores de Bitcoin. Compre ou venda bitcoin P2P, em qualquer lugar, a qualquer momento, com o método de pagamento de sua escolha.",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://peachbitcoin.com/",
+      "tor": null
+    },
+    "logo": "https://kycnot.me/static/images/peach-bitcoin.jpg"
+  },
+  {
+    "name": "Philippe Burningman",
+    "description": "P2P operando em BRL e EUR",
+    "detailedDescription": "Philippe é um P2P brasileiro operando em BRL e EUR",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://njump.me/nprofile1qqst5205nfhwlkam0tea58ypl8lsd65ejrlt0yj9rgtv93m0mx04n9cpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcrejuhq",
+      "tor": null
+    },
+    "logo": "https://image.nostr.build/989c8921cc0e545d0910bd35ee6f32e4c677e85abff0984e2a0ed6981f0bc7df.jpg"
+  },
+  {
+    "name": "B2P Central",
+    "description": "Plataforma que reúne ofertas de vários sites",
+    "detailedDescription": "B2P Central reúne ofertas de diversas plataformas P2P, redirecionando para o site da oferta ao clicar.",
+    "categories": ["Agregador", "P2P"],
+    "links": {
+      "web": "https://www.b2p-central.com/",
+      "tor": null
+    },
+    "logo": "https://www.b2p-central.com/assets/B2P-140.png"
   }
 ]
