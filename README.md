@@ -1,92 +1,29 @@
-# CriptoLivre
+# CriptoLivre  
 
-**CriptoLivre** é um site que reúne os melhores serviços de criptomoedas sem KYC (Know Your Customer), promovendo privacidade e autonomia financeira.
+**CriptoLivre** é um site que reúne os melhores serviços de criptomoedas sem KYC (Know Your Customer), promovendo privacidade e autonomia financeira.  
 
-## Funcionalidades
-- Listagem exchanges descentralizadas (DEXs) e seguras.
-- Marketplaces e ferramentas financeiras anônimas.
-- Atualizações constantes com novos serviços.
+## Funcionalidades  
+- Listagem de exchanges descentralizadas (DEXs) e seguras.  
+- Marketplaces e ferramentas financeiras anônimas.  
+- Atualizações constantes com novos serviços.  
 
-## Tecnologias Utilizadas
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **JSON**
+## Tecnologias Utilizadas  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+- **JSON**  
 
-## Por que sem KYC?
-Priorizamos a privacidade e a descentralização, respeitando a soberania financeira dos usuários. O CriptoLivre promove a utilização de criptomoedas da forma como foram originalmente concebidas: livres de intermediários.
+## Por que sem KYC?  
+Priorizamos a privacidade e a descentralização, respeitando a soberania financeira dos usuários. O CriptoLivre promove a utilização de criptomoedas da forma como foram originalmente concebidas: livres de intermediários.  
 
----
-
-# Como Contribuir
-
-### 1. Fork do Repositório
-Clique no botão **Fork** no topo da página para criar uma cópia do repositório no seu GitHub.
-
-### 2. Clone o Repositório
-Clone o repositório para sua máquina local usando o comando:
-
-```bash
-git clone https://github.com/seu-usuario/CriptoLivre.git
-```
-
-### 3. Crie uma Nova Branch
-Sempre trabalhe em uma branch nova:
-
-```bash
-git checkout -b adicionar-servico
-```
-
-### 4. Adicione o Serviço ao JSON
-Abra o arquivo `dados.json` e siga o formato abaixo para adicionar um novo serviço:
-
-```json
-{
-    "name": "Nome do Serviço",
-    "description": "Breve resumo do serviço",
-    "detailedDescription": "Descrição detalhada do serviço",
-    "categories": ["Categoria do Serviço"],
-    "links": {
-      "web": "link da web",
-      "tor": "link da rede Tor"
-    },
-    "logo": "link da logo do serviço"
-  }
-```
-
-**Atenção:** Certifique-se de que seu JSON seja válido. Para isso, você pode validar usando [JSONLint](https://jsonlint.com).
-
-### 5. Commit das Alterações
-Salve suas alterações e faça o commit:
-
-```bash
-git add dados.json
-git commit -m "Adiciona novo serviço ao JSON"
-```
-
-### 6. Envie para o GitHub
-Faça o push das suas alterações:
-
-```bash
-git push origin adicionar-servico
-```
-
-### 7. Crie um Pull Request
-No GitHub, acesse seu fork e clique em **Pull Request**. Adicione uma descrição clara sobre as alterações.
+## Como Contribuir?  
+Você pode sugerir mudanças diretamente no nosso repositório no GitHub. Caso queira sugerir um novo serviço para ser listado, acesse **[criptolivre.online/about.html](https://criptolivre.online/about.html)**.  
 
 ---
 
-## Regras de Contribuição
+### 🔒 **Contatos**  
+- **Session:** `056bae71ebf340f255ed7e64ac9a45e6364e9b9652e4f16e34de1ecb0f310d7452`  
+- **SimpleX:** [Clique aqui!](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2Fk7D1jmBRANmRxj-hxQLB-ifDzRndnV0z%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAqMJYb1ddy6AN8gWn5WIg-22TMW_FK-2hqhl1Y00pUFE%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion)  
+- **Nostr:** [Ghost of Ångström♱₿](https://njump.me/nprofile1qqsqfn3sctzg4nk2xech3jvyhqm9hv0a626elu5jn459gk35t849w6spzdmhxw309ucnydewxqhrqt338g6rsd3eqy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3wvf5hgcm0d9hx2u3wwdhkx6tpdshshynp4p)  
 
-- Siga o formato correto do JSON.
-- Certifique-se de que o serviço é legítimo, útil e SEM KYC.
-- Descreva brevemente o propósito do serviço.
-
----
-
-## Dúvidas?
-Se tiver dúvidas, abra uma **Issue** ou entre em contato.
-
----
-
-Junte-se ao movimento por mais privacidade e autonomia no universo cripto com o **CriptoLivre**.
+Junte-se ao movimento por mais privacidade e autonomia no universo cripto com o **CriptoLivre**!
