@@ -247,7 +247,6 @@ ul li {
 
 #comments-section {
     width: 100%;
-    flex-grow: 1;
     max-width: none;
     padding: 30px;
     margin-top: 20px;
@@ -255,6 +254,16 @@ ul li {
     border: 2px solid #ff6600;
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(22, 22, 22, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
+}
+
+.comments-section {
+    width: 100%;
+    max-width: none;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 @media (max-width: 768px) {
