@@ -53,6 +53,7 @@ nav {
 
 nav a, .service a, .service-detail a, .pagination-btn, .category-btn {
     color: #ff6600;
+    max-width: 100%;
     font-weight: bold;
     text-decoration: none;
     padding: 10px 20px;
