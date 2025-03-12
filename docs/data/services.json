@@ -5,7 +5,7 @@
     "detailedDescription": "Bisq é uma exchange peer-to-peer que permite a compra e venda de Bitcoin sem a necessidade de fornecer dados pessoais.",
     "categories": ["Exchange"],
     "links": {
-      "web": "https://robosats.com",
+      "web": "https://bisq.network/",
       "tor": null
     },
     "logo": "https://kycnot.me/static/images/bisq.jpg"
