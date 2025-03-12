@@ -245,6 +245,12 @@ ul li {
     background-color: #cc5200;
 }
 
+#comments-section {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 30px;
+}
+
 @media (max-width: 768px) {
     h1 {
         font-size: 3rem;
