@@ -12,7 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 
                 serviceLink.innerHTML = `
                     <div class="service-header">
-                        <!-- Usando o link direto para a logo -->
                         <img src="${service.logo}" alt="${service.name} logo" class="service-logo" />
                         <h3>${service.name}</h3>
                     </div>
