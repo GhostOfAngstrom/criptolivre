@@ -254,6 +254,7 @@ ul li {
     border: 2px solid #ff6600;
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(22, 22, 22, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
+    display: inline-block;
 }
 
 @media (max-width: 768px) {
