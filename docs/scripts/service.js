@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
                 const script = document.createElement("script");
                 script.src = "https://utteranc.es/client.js";
-                script.setAttribute("repo", "ghostofangstrom/CriptoLivre");
+                script.setAttribute("repo", "GhostOfAngstrom/criptolivre");
                 script.setAttribute("issue-term", serviceId);
                 script.setAttribute("theme", "github-dark");
                 script.setAttribute("crossorigin", "anonymous");
