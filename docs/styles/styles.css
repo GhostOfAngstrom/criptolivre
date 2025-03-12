@@ -247,6 +247,7 @@ ul li {
 
 #comments-section {
     width: 100%;
+    flex-grow: 1;
     max-width: none;
     padding: 30px;
     margin-top: 20px;
