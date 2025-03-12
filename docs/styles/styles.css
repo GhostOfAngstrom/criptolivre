@@ -246,85 +246,14 @@ ul li {
 }
 
 #comments-section {
-    width: 100vw; 
-    max-width: 100%; 
+    width: 100%;
+    max-width: none;
     padding: 30px;
     margin-top: 20px;
     background: linear-gradient(145deg, #141414, #222222);
     border: 2px solid #ff6600;
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(22, 22, 22, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
-}
-
-.comment {
-    width: 100%;
-    padding: 15px;
-    background: linear-gradient(145deg, #1a1a1a, #2a2a2a);
-    border: 2px solid #ff6600;
-    border-radius: 8px;
-    box-shadow: 3px 3px 10px rgba(22, 22, 22, 0.3), -3px -3px 10px rgba(255, 255, 255, 0.1);
-}
-
-.comment-header {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 10px;
-}
-
-.comment-username {
-    font-weight: bold;
-    color: #ff6600;
-}
-
-.comment-content {
-    font-size: 1.2rem;
-    color: #ddd;
-}
-
-.comment-form {
-    width: 100%;
-    max-width: 600px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    background: linear-gradient(145deg, #141414, #222222);
-    padding: 20px;
-    border: 2px solid #ff6600;
-    border-radius: 10px;
-    box-shadow: 5px 5px 15px rgba(22, 22, 22, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
-}
-
-.comment-form label {
-    font-weight: bold;
-    color: #ff6600;
-}
-
-.comment-form input,
-.comment-form textarea {
-    width: 100%;
-    padding: 10px;
-    font-size: 1rem;
-    background: #333;
-    color: #ff6600;
-    border: 2px solid #ff6600;
-    border-radius: 5px;
-    font-family: 'Chakra Petch', sans-serif;
-}
-
-.comment-form button {
-    background-color: #ff6600;
-    color: #333;
-    border: none;
-    padding: 12px 15px;
-    font-size: 1rem;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
-
-.comment-form button:hover {
-    background-color: #cc5200;
 }
 
 @media (max-width: 768px) {
