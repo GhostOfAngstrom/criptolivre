@@ -20,6 +20,23 @@ document.addEventListener("DOMContentLoaded", function() {
                         ${service.links.tor ? `<a href="${service.links.tor}" target="_blank">Acessar .onion</a>` : ''}
                     </div>
                 `;
+
+                const existingComments = document.querySelector(".utterances");
+                if (existingComments) {
+                    existingComments.remove();
+                }
+
+                const serviceId = service.name.toLowerCase().replace(/\s+/g, "-");
+
+                const script = document.createElement("script");
+                script.src = "https://utteranc.es/client.js";
+                script.setAttribute("repo", "ghostofangstrom/CriptoLivre");
+                script.setAttribute("issue-term", serviceId);
+                script.setAttribute("theme", "github-dark");
+                script.setAttribute("crossorigin", "anonymous");
+                script.setAttribute("async", "");
+
+                document.getElementById("comments-section").appendChild(script);
             } else {
                 document.getElementById('service-details').innerHTML = '<p>Serviço não encontrado.</p>';
             }
