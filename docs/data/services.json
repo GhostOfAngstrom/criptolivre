@@ -1,5 +1,16 @@
 [
   {
+    "name": "Stackfy",
+    "description": "Compre Bitcoin de maneira privada",
+    "detailedDescription": "A Stackfy possui um site e um bot no Telegram onde você pode vender e comprar Bitcoin de maneira privada",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://t.me/stack_fy_bot?start=B93725E6",
+      "tor": null
+    },
+    "logo": "https://stackfy.xyz/wp-content/uploads/2024/04/midia_kit_logos-1024x566.png"
+  },
+  {
     "name": "Bisq",
     "description": "Plataforma descentralizada para compra e venda de Bitcoin sem KYC.",
     "detailedDescription": "Bisq é uma exchange peer-to-peer que permite a compra e venda de Bitcoin sem a necessidade de fornecer dados pessoais.",
@@ -570,17 +581,6 @@
       "tor": null
     },
     "logo": "https://kycnot.me/static/images/sideshift-ai.jpg"
-  },
-  {
-    "name": "Stackfy",
-    "description": "Compre Bitcoin de maneira privada",
-    "detailedDescription": "A Stackfy possui um site e um bot no Telegram onde você pode vender e comprar Bitcoin de maneira privada",
-    "categories": ["P2P"],
-    "links": {
-      "web": "https://stackfy.xyz/",
-      "tor": null
-    },
-    "logo": "https://stackfy.xyz/wp-content/uploads/2024/04/midia_kit_logos-1024x566.png"
   },
   {
     "name": "DIG P2P",
