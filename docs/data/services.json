@@ -12,6 +12,7 @@
   },
   {
     "name": "Bisq",
+    "npub": "npub1sqn6rpml88nq8khuvvneuqztfmvalpsarr8grkwy837hzdw63ajs6t5net",
     "description": "Plataforma descentralizada para compra e venda de Bitcoin sem KYC.",
     "detailedDescription": "Bisq é uma exchange peer-to-peer que permite a compra e venda de Bitcoin sem a necessidade de fornecer dados pessoais.",
     "categories": ["Exchange"],
@@ -23,6 +24,7 @@
   },
   {
     "name": "robosats",
+    "npub": "npub1gdfr0r0an32jalqryqlvpn3gsef2hu832wv6kp5p2gt2aqa2n8yqd42ffw",
     "description": "Plataforma descentralizada para compra e venda de Bitcoin sem KYC.",
     "detailedDescription": "Troca P2P de bitcoin por moedas nacionais. Robosats simplifica a experiência do usuário peer-to-peer.",
     "categories": ["Exchange"],
