@@ -11,6 +11,17 @@
     "logo": "https://stackfy.xyz/wp-content/uploads/2024/04/midia_kit_logos-1024x566.png"
   },
   {
+    "name": "SATSFaction",
+    "description": "Compre Bitcoin de maneira simples",
+    "detailedDescription": "O bot da SATSFaction no Telegram é voltado para iniciantes, onde você pode vender e comprar Bitcoin de maneira simples e rápida",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://t.me/SATSfaction_bot?start=ref_8183196841",
+      "tor": null
+    },
+    "logo": "https://cdn1.cdn-telegram.org/file/hMrpVlEStlAIjaSH7qlOoBhsbPQzcdRk1vL5uNDYZ3w7zxePdiLH1y-YX7GC-gUL9iZjDoPYXq-eYQ6EzjRHIOSqPi9GtLQppK1RMi1KF7ecB7q33rpv3LPAwFwN1XYe-bsZwvxzoKMM0mK5v_fKZUqTPqGZ1flAuOG3IRR3F_H4CY0kDFb0Fu1A7JY54NcCJ5rC78QFmzK3_o-PzjzgAdh1UUNeRwVbqE-f0LvOSHEBENv_6c1ngVWhdWfMPbDV6m-Iqt0Q6Ch0KBvWcL-T4XJasgjvHTKaEtuCGvC8KFcAFppxr42XD5LQKcPMQqCtcr1jCQpkzkRWEJ9HY_yEYQ.jpg"
+  },
+  {
     "name": "Bisq",
     "description": "Plataforma descentralizada para compra e venda de Bitcoin sem KYC.",
     "detailedDescription": "Bisq é uma exchange peer-to-peer que permite a compra e venda de Bitcoin sem a necessidade de fornecer dados pessoais.",
