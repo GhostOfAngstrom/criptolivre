@@ -22,6 +22,7 @@ header, h2, .service, .service-detail, .about-box {
     box-shadow: 5px 5px 15px rgba(22, 22, 22, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
     word-wrap: break-word;
     overflow-wrap: break-word;
+    text-align: justify;
 }
 
 header {
