@@ -647,5 +647,16 @@
       "tor": null
     },
     "logo": "https://www.b2p-central.com/assets/B2P-140.png"
+  },
+  {
+    "name": "Denis_the_Guy",
+    "description": "Faz-tudo disponível no xmrbazaar",
+    "detailedDescription": "Denis_the_Guy é um faz-tudo disponível no xmrbazaar com as seguintes habilidades (segundo ele): Mediador (https://xmrbazaar.com/mediator-listing/MGTax), VPS/Servidores, Web development, Privacidade e Anonimato, Engenheiro de modelos LLM/AI, Bitcoin especialista",
+    "categories": ["Outros"],
+    "links": {
+      "web": "https://xmrbazaar.com/user/Denis_the_Guy",
+      "tor": null
+    },
+    "logo": "https://xmrbazaar.com/img/avatars/d8e12f61dbdd864994c980b47f886ceaa16af0b3.jpeg"
   }
 ]
