@@ -22,6 +22,72 @@
     "logo": "https://cdn1.cdn-telegram.org/file/hMrpVlEStlAIjaSH7qlOoBhsbPQzcdRk1vL5uNDYZ3w7zxePdiLH1y-YX7GC-gUL9iZjDoPYXq-eYQ6EzjRHIOSqPi9GtLQppK1RMi1KF7ecB7q33rpv3LPAwFwN1XYe-bsZwvxzoKMM0mK5v_fKZUqTPqGZ1flAuOG3IRR3F_H4CY0kDFb0Fu1A7JY54NcCJ5rC78QFmzK3_o-PzjzgAdh1UUNeRwVbqE-f0LvOSHEBENv_6c1ngVWhdWfMPbDV6m-Iqt0Q6Ch0KBvWcL-T4XJasgjvHTKaEtuCGvC8KFcAFppxr42XD5LQKcPMQqCtcr1jCQpkzkRWEJ9HY_yEYQ.jpg"
   },
   {
+    "name": "DIG P2P",
+    "description": "P2P brasileiro de Bitcoin e Stablecoins",
+    "detailedDescription": "O DIG é um P2P brasileiro que vende Bitcoin e Stablecoins de maneira privada",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://www.usedig.net/",
+      "tor": null
+    },
+    "logo": "https://www.usedig.net/assets/dig-DkWK3uie.jpg"
+  },
+  {
+    "name": "Tripinha P2P",
+    "description": "P2P brasileiro de DePix",
+    "detailedDescription": "Tripinha P2P é um P2P brasileiro que faz venda de DePix",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FUi08UeygAB-p6w7JHqpV3-CeRYD0tqb9%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAxLuiWUQxFLEelWxaHIPN05TPy3PhZ1_oRdjKXFBxQxY%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22groupLinkId%22%3A%22WxIdl-i-K5_FUg1jwndOOw%3D%3D%22%7D",
+      "tor": null
+    },
+    "logo": ""
+  },
+  {
+    "name": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️",
+    "description": "P2P brasileira de Bitcoin",
+    "detailedDescription": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️ é uma P2P brasileira que compra e vende Bitcoin",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FuSAJtO0asnul7BRkzDeFxulsB0FZMKss%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAfIvQbWMc7GcaDbyntex7SNjgjQ4IkNfBnv8klT8Y_3s%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion",
+      "tor": null
+    },
+    "logo": "https://cdn.satellite.earth/7a14d6ba7dab1d2ac8a995f26d49e04057b0647b3e1b453ef4386148562b3d2f.jpg"
+  },
+  {
+    "name": "SpikeToSpike",
+    "description": "Compre ou venda Bitcoin e USDT de forma anônima",
+    "detailedDescription": "A SpikeToSpike é uma plataforma brasileira P2P que conecta vendedores e compradores, de forma anônima",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://spiketospike.com/",
+      "tor": null
+    },
+    "logo": "data:image/jpeg;base64,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"
+  },
+  {
+    "name": "Bitcão",
+    "description": "Progamador no Nostr",
+    "detailedDescription": "Programador talentoso no Nostr que aceita pagamentos em Bitcoin",
+    "categories": ["Outros"],
+    "links": {
+      "web": "https://njump.me/nprofile1qqs8h057dewjchkpp2etmjkvd9chzr7j09m5ra4jsvq4ls60usya73qpz4mhxue69uhkummnw3ezummcw3ezuer9wchsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0qy88wumn8ghj7mn0wvhxcmmv9ue77sja",
+      "tor": null
+    },
+    "logo": "https://image.nostr.build/67ebc63dc7faee14b518966bfe63865eec1b8838bb853d13d7b7d391f55bd267.jpg"
+  },
+  {
+    "name": "Philippe Burningman",
+    "description": "P2P operando em BRL e EUR",
+    "detailedDescription": "Philippe é um P2P brasileiro operando em BRL e EUR",
+    "categories": ["P2P"],
+    "links": {
+      "web": "https://njump.me/nprofile1qqst5205nfhwlkam0tea58ypl8lsd65ejrlt0yj9rgtv93m0mx04n9cpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcrejuhq",
+      "tor": null
+    },
+    "logo": "https://image.nostr.build/989c8921cc0e545d0910bd35ee6f32e4c677e85abff0984e2a0ed6981f0bc7df.jpg"
+  },
+  {
     "name": "Bisq",
     "description": "Plataforma descentralizada para compra e venda de Bitcoin sem KYC.",
     "detailedDescription": "Bisq é uma exchange peer-to-peer que permite a compra e venda de Bitcoin sem a necessidade de fornecer dados pessoais.",
@@ -385,17 +451,6 @@
     "logo": "https://kycnot.me/static/images/simsup.jpg"
   },
   {
-    "name": "Bitcão",
-    "description": "Progamador no Nostr",
-    "detailedDescription": "Programador talentoso no Nostr que aceita pagamentos em Bitcoin",
-    "categories": ["Outros"],
-    "links": {
-      "web": "https://njump.me/nprofile1qqs8h057dewjchkpp2etmjkvd9chzr7j09m5ra4jsvq4ls60usya73qpz4mhxue69uhkummnw3ezummcw3ezuer9wchsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0qy88wumn8ghj7mn0wvhxcmmv9ue77sja",
-      "tor": null
-    },
-    "logo": "https://image.nostr.build/67ebc63dc7faee14b518966bfe63865eec1b8838bb853d13d7b7d391f55bd267.jpg"
-  },
-  {
     "name": "FixedFloat",
     "description": "Plataforma de Swaps anônimos",
     "detailedDescription": "Faça swaps de várias criptos de forma anônima",
@@ -429,17 +484,6 @@
     "logo": "data:image/jpeg;base64,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"
   },
   {
-    "name": "SpikeToSpike",
-    "description": "Compre ou venda Bitcoin e USDT de forma anônima",
-    "detailedDescription": "A SpikeToSpike é uma plataforma brasileira P2P que conecta vendedores e compradores, de forma anônima",
-    "categories": ["P2P"],
-    "links": {
-      "web": "https://spiketospike.com/",
-      "tor": null
-    },
-    "logo": "data:image/jpeg;base64,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"
-  },
-  {
     "name": "Bitrefill",
     "description": "Compre giftcards pagando com Bitcoin",
     "detailedDescription": "A Bitrefill é uma plataforma que vende giftcards por Bitcoin e outras criptos, além de vender eSIMs e fazer recargas de celular. Porém, exige um cadastro com email",
@@ -449,28 +493,6 @@
       "tor": null
     },
     "logo": "data:image/png;base64,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"
-  },
-  {
-    "name": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️",
-    "description": "P2P brasileira de Bitcoin",
-    "detailedDescription": "𝑻𝒉𝒆 𝑫𝒂𝒓𝒌 𝑴𝒆𝒕𝒆𝒐𝒓 𝑭𝒓𝒐𝒎 𝑨𝒏𝒅𝒓𝒐𝒎𝒆𝒅𝒂³🌌☄️ é uma P2P brasileira que compra e vende Bitcoin",
-    "categories": ["P2P"],
-    "links": {
-      "web": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FuSAJtO0asnul7BRkzDeFxulsB0FZMKss%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAfIvQbWMc7GcaDbyntex7SNjgjQ4IkNfBnv8klT8Y_3s%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion",
-      "tor": null
-    },
-    "logo": "https://cdn.satellite.earth/7a14d6ba7dab1d2ac8a995f26d49e04057b0647b3e1b453ef4386148562b3d2f.jpg"
-  },
-  {
-    "name": "Tripinha P2P",
-    "description": "P2P brasileiro de DePix",
-    "detailedDescription": "Tripinha P2P é um P2P brasileiro que faz venda de DePix",
-    "categories": ["P2P"],
-    "links": {
-      "web": "https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FUi08UeygAB-p6w7JHqpV3-CeRYD0tqb9%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAxLuiWUQxFLEelWxaHIPN05TPy3PhZ1_oRdjKXFBxQxY%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22groupLinkId%22%3A%22WxIdl-i-K5_FUg1jwndOOw%3D%3D%22%7D",
-      "tor": null
-    },
-    "logo": ""
   },
   {
     "name": "cryptostorm",
@@ -594,17 +616,6 @@
     "logo": "https://kycnot.me/static/images/sideshift-ai.jpg"
   },
   {
-    "name": "DIG P2P",
-    "description": "P2P brasileiro de Bitcoin e Stablecoins",
-    "detailedDescription": "O DIG é um P2P brasileiro que vende Bitcoin e Stablecoins de maneira privada",
-    "categories": ["P2P"],
-    "links": {
-      "web": "https://www.usedig.net/",
-      "tor": null
-    },
-    "logo": "https://www.usedig.net/assets/dig-DkWK3uie.jpg"
-  },
-  {
     "name": "hodlhodl",
     "description": "Plataforma P2P para compra e venda de Bitcoin",
     "detailedDescription": "Plataforma de negociação P2P de Bitcoin. Comércio global. Usando qualquer sistema de pagamento. Para qualquer moeda.",
@@ -625,17 +636,6 @@
       "tor": null
     },
     "logo": "https://kycnot.me/static/images/peach-bitcoin.jpg"
-  },
-  {
-    "name": "Philippe Burningman",
-    "description": "P2P operando em BRL e EUR",
-    "detailedDescription": "Philippe é um P2P brasileiro operando em BRL e EUR",
-    "categories": ["P2P"],
-    "links": {
-      "web": "https://njump.me/nprofile1qqst5205nfhwlkam0tea58ypl8lsd65ejrlt0yj9rgtv93m0mx04n9cpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcrejuhq",
-      "tor": null
-    },
-    "logo": "https://image.nostr.build/989c8921cc0e545d0910bd35ee6f32e4c677e85abff0984e2a0ed6981f0bc7df.jpg"
   },
   {
     "name": "B2P Central",
