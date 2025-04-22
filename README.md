@@ -16,10 +16,6 @@
 ## Por que sem KYC?  
 Priorizamos a privacidade e a descentralização, respeitando a soberania financeira dos usuários. O CriptoLivre promove a utilização de criptomoedas da forma como foram originalmente concebidas: livres de intermediários.  
 
-## Baixe o App  
-Você pode baixar o aplicativo do CriptoLivre para Android neste link:  
-[**Download do APK**](https://github.com/GhostOfAngstrom/criptolivre/blob/CriptoLivre-apk/app-release.apk)
-
 ## Como Contribuir?  
 Você pode sugerir mudanças diretamente no nosso repositório no GitHub. Caso queira sugerir um novo serviço para ser listado, acesse [criptolivre.online/about.html](https://criptolivre.online/about.html).  
 
