@@ -36,13 +36,19 @@
         </nav>
     </header>
     <main>
-        <h2 class="title-box">Serviços Cripto Sem KYC</h2>
+        <h2 class="title-box">
+            Serviços Cripto Sem KYC
+            <div class="search-box">
+                <input placeholder="Pesquisar.." onkeyup="methods.filterServices(this.value)" />
+            </div>
+        </h2>
         <div id="services-container"></div>
         <div id="pagination-btn" class="pagination-container"></div>
     </main>
     <footer>
         <p>Seja soberano</p>
     </footer>
+    <script src="scripts/utils.js"></script>
     <script src="scripts/main.js"></script>
 </body>
 

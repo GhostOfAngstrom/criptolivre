@@ -89,6 +89,21 @@ h2, .service-detail h2 {
     cursor: pointer;
 }
 
+.search-box {
+    width: 100%;
+    align-items: center;
+}
+.search-box input {
+    width: 90%;
+    padding: 10px 20px;
+    font-size: 30px;
+    background: transparent;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-weight: "500";
+}
+
 .service-container {
     display: flex;
     flex-direction: column;
